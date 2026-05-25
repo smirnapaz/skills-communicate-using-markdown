@@ -1,6 +1,6 @@
 # Daily Learning
-+Make list of things that are opportunity areas for growth
-+Make checklist of complete, in progress, not started items for tracking
++ Make list of things that are opportunity areas for growth
++ Make checklist of complete, in progress, not started items for tracking
 
 ## Morning Planning
 1. Step 1 Make sure you complete what topic is on your areas of growth
