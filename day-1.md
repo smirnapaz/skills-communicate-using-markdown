@@ -9,6 +9,6 @@
 
 ## Review
 - [x] Note what is considered complete
--[ ] Note what is considered incomplete
+- [ ] Note what is considered incomplete
 
 
