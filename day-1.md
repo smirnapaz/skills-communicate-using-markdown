@@ -17,4 +17,4 @@
 git clone https://github.com/smirnapaz/skills-communicate-using-markdown.git
 ```
 Share your certification story!
-![AZ-104 Azure Administrator] (https://images.credly.com/size/680x680/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)
+![AZ-104](https://images.credly.com/size/680x680/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)
