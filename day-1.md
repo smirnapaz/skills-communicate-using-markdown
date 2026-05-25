@@ -1,18 +1,18 @@
 # Daily Learning
-+ Make list of things that are opportunity areas for growth
-+ Make checklist of complete, in progress, not started items for tracking
+- Cloud Engineering
+- IT Infrastructure
+- Systems Administration
 
 ## Morning Planning
-1. **Step 1:** Make sure you complete what topic is on your areas of growth
-2. **Step 2:** Complete the checklist your created for the week
-3. **Step 3:** Get started with the first thing on the list
+1. Review AZ-104 study materials
+2. Work on learning github
+3. Practice Git branching and commits
 
 ## Review
-- [x] Note what is considered complete
-- [ ] Note what is considered incomplete
+- [x] Created and cloned GitHub repository
+- [ ] Push all local changes to GitHub
 
-Convert an image or video from dark mode to light mode using [ffmpeg](https://www.ffmpeg.org)
-
+## Code Block
 ```bash
-ffmpeg -i input.mp4 -vf "negate,hue=h=180,eq=contrast=1.2:saturation=1.1" output.mp4
+git clone https://github.com/smirnapaz/skills-communicate-using-markdown.git
 ```
